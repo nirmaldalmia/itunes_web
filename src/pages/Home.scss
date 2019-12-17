@@ -1,0 +1,25 @@
+.searchWrapper {
+    text-align: center;
+    margin-top: 20px;
+
+    .ant-input {
+        width: 50%;
+        line-height: 24px;
+        font-size: 18px;
+        border-radius: 5px;
+        padding-left: 10px;
+    }
+
+    .ant-btn {
+        height: 32px;
+        border-radius: 5px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+.cardsContainer {
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
